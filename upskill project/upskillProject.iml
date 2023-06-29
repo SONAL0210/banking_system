@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$USER_HOME$/Downloads/sqljdbc_12.2">
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/adaptive" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/alwaysencrypted" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/azureactivedirectoryauthentication" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/connections" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/constrained" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/dataclassification" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/datatypes" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/resultsets" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/sqljdbc_12.2/enu/samples/sparse" isTestSource="false" />
+    </content>
+  </component>
+</module>

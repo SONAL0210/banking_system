@@ -1,0 +1,7 @@
+Name: sonal
+Address: alpha
+Contact Information: 1234
+Initial Deposit Amount: 100.0
+Gender: Male
+Marital Status: Single
+Account Number: 803433
